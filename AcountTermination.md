@@ -2,7 +2,7 @@
 
 ## KDP - Email
 
-Hello _INERST_NAME_,
+Hello {_INERST_NAME_},
 
 This is the Kintone Developer Program team. We hope this email finds you well.
 
@@ -10,16 +10,18 @@ We are notifying you that the Kintone Developer License you previously obtained 
 
 If you wish to keep your Kintone Developer License, sign in and use your account before March 1st, 2021. Then your Kintone Developer License will be extended for another year.
 
-Planned Termination Date: March 1st, 2021
-Planned Termination Domain: https://SUBDOMAIN.kintone.com
-Termination Reason: Inactivity
+Planned Termination Date: **March 1st, 2021**
+Planned Termination Domain: **<https://{SUBDOMAIN}.kintone.com>**
+Termination Reason: **Inactivity**
 
 Please note that the email addresses that were previously used to obtain a Kintone Developer License cannot be reused.
 Use a different email address to apply for a new Kintone Developer License.
 
-Best,
-Kintone Developer Program Team
-https://developer.kintone.io/
+Best,  
+Kintone Developer Program Team  
+[developer.kintone.io](https://developer.kintone.io)  
+
+---
 
 ## Ubisoft - Email
 *Subject:*  
