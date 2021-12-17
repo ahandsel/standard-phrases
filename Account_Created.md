@@ -4,7 +4,7 @@
 * [Discourse - Email](#discourse---email)
 * [Slack - Email](#slack---email)
   * [Welcome to Slack!](#welcome-to-slack)
-  * [Want to learn more now?](#want-to-learn-morenow)
+  * [Want to learn more now?](#want-to-learn-more-now)
 <!-- markdownlint-enable MD007 -->
 
 ## Discourse - Email
@@ -32,21 +32,21 @@ Title: {SUBDOMAIN} on Slack: New Account Details
 
 ### Welcome to Slack!
 
-You've created the new Slack workspace **{SUBDOMAIN}**. Here are your account details:
+You've created the new Slack workspace **{SUBDOMAIN}**. Here are your account details:
 
 **{SUBDOMAIN}**  
-**URL: [{SUBDOMAIN}-xxxxxxx.slack.com](https://{SUBDOMAIN}-xxxxxxx.slack.com/)**  
-**Email: <{email_address}>**
+**URL: [{SUBDOMAIN}-xxxxxxx.slack.com](https://{SUBDOMAIN}-xxxxxxx.slack.com/)**  
+**Email: <{email_address}>**
 
-Your workspace is on the [free plan](https://slack.com/pricing), with unlimited messaging and the ability to search the 10,000 most recent messages.
+Your workspace is on the [free plan](https://slack.com/pricing), with unlimited messaging and the ability to search the 10,000 most recent messages.
 
-### Want to learn more now?
+### Want to learn more now?
 
-[Check out our Slack guides](https://slack.com/resources/using-slack/slack-tutorials) for tips on messaging with your team, sharing files, and getting updates from your other tools.
+[Check out our Slack guides](https://slack.com/resources/using-slack/slack-tutorials) for tips on messaging with your team, sharing files, and getting updates from your other tools.
 
-Made by [Slack Technologies, Inc](https://slack.com/)
+Made by [Slack Technologies, Inc](https://slack.com/)
 
-500 Howard Street  San Francisco, CA 94105  United States
+500 Howard Street  San Francisco, CA 94105  United States
 
 [Our Blog](https://slackhq.com/)  
 [Email Preferences](https://{SUBDOMAIN}-xxxxxxx.slack.com/account/notifications)  
